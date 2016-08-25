@@ -19,9 +19,13 @@
 
 
 Postgresql database should be installed (localhost):
+
 name: 'coding_test'
+
 user: flaskuser
+
 password: qwertz
+
 port: 5432
 
 with the table Artist_sql as described in models.py
