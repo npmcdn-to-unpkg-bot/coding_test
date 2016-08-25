@@ -1,15 +1,14 @@
-1.
 `npm install webpack -g`
 
 
-2. In the folder /ReactApp:
+In the folder /ReactApp:
 
 `npm install`
 
 `webpack --progress --color`
 
 
-3. In the folder /server:
+In the folder /server:
 
 `pip install -r requirements.txt`
 
